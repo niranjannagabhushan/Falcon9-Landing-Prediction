@@ -1,12 +1,3 @@
 # SPACE X FALCON 9 LANDING PREDICTION
-
-## I predicted if the Falcon 9 first stage will land successfully.SpaceX
-advetises Falcon 9 rocket launches on its website, with a cost of
-62 million dollars; other providers cost upward of 165 million
-dollars each, much of the savings is because SpaceX can reuse the
-first stage. Therefore, if we can determine if the first stage will
-land, we can determine the cost of a launch. This informa􀀨on can
-be used if an alternate company wants to bid against SpaceX for a
-rocket launch.
-
-
+I have predicted,  if the Falcon 9 first stage will land successfully or not using several Machine Learning Models.
+SpaceX advetises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. This informa􀀨on can be used if an alternate company wants to bid against SpaceX for a rocket launch.
